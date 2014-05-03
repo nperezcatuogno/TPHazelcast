@@ -213,3 +213,5 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+/TPLentiniPerez/nbproject/private/
+/TPLentiniPerez/hazelcast-3.2.1
